@@ -2,10 +2,10 @@
 
 ## Overview
 
-MathGame is a simple console application written in C# that helps 
+MathGame is a simple console application written in C# that helps
 users practice basic
 arithmetic operations: addition, subtraction, multiplication, and division. The game
-presents random math problems and checks the user's answers, 
+presents random math problems and checks the user's answers,
 providing immediate feedback.
 Additionally, it maintains a history of past games for review.
 
@@ -85,3 +85,10 @@ Do you want to play again? (y/n)
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Create a new Pull Request.
+
+## Challenges
+
+1. Try to implement levels of difficulty.
+2. Add a timer to track how long the user takes to finish the game.
+3. Add a function that let's the user pick the number of questions.
+4. Create a 'Random Game' option where the players will be presented with questions from random operations
